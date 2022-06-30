@@ -1,10 +1,4 @@
-<p align="center" width="100%">
-<img src=https://easydrawingguides.com/wp-content/uploads/2020/03/Orange-Step-10.png width=50%>
-</p>
-
-# Orange Cloud
-
-Orange Cloud, is an easy to use, decentralized cloud/compute system. You submit a script to be run and it's run by one of the nodes in our network. Or you can provide your idle compute power to be used by people willing to pay for it.
+Decentralized cloud/compute system. You submit a script to be run and it's run by one of the nodes in our network. Or you can provide your idle compute power to be used by people willing to pay for it.
 
 This repository contains the source code for all of the project.
 
