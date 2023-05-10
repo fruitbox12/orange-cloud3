@@ -4,7 +4,7 @@ pragma solidity >=0.4.22 <0.9.0;
 // add ability to return structs directly
 pragma experimental ABIEncoderV2;
 
-contract Orange {
+contract Artemis {
     struct Job {
         // to check if the job exists in jobStore
         // ref: https://ethereum.stackexchange.com/a/13029
